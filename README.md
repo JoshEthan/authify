@@ -61,13 +61,20 @@ Authify is a personal website with user authentication and basic profile managem
 
 ## Folder Structure
 
-├── /controllers # Application logic and controllers 
+├── /controllers # Application logic and controllers
+
 ├── /models # Database models and queries 
+
 ├── /routes # API routes 
+
 ├── /views # Frontend HTML and templates 
+
 ├── /middleware # Authentication and validation middleware 
+
 ├── /config # Database and JWT configurations 
+
 ├── .env # Environment variables 
+
 └── README.md # Project documentation
 
 
